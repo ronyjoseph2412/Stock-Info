@@ -1,7 +1,6 @@
 from django.contrib import admin
 from django.urls import path,re_path
 from stock_info import views
-from django.conf.urls import url
 
 ''' All URLS used for webpages are customized or created here. '''
 urlpatterns = [
