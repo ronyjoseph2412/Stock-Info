@@ -1,9 +1,6 @@
-from ast import Return
-from distutils.log import error
-from django.shortcuts import redirect, render,HttpResponseRedirect
+from django.shortcuts import render,HttpResponseRedirect
 import requests
 from django.urls import reverse
-import json
 from bs4 import BeautifulSoup
 import pandas as pd
 from datetime import date
