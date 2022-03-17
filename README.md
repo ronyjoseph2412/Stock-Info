@@ -1,6 +1,6 @@
 # Stock-Info (NSE Stock-Market Tracker)
 Stock Info - a user-friendly web application created to monitor &amp; deliver trivial information regarding stocks and indices of National Stock Exchange (NSE) created using Django Framework & front-end developed using Tailwind CSS.
-The data has be mainly sourced from NSE-India Website & Rediff Money using Web Scrappinh with the help of Python Package (Beautiful Soup) and the Charts are made with NPM package (Chart.js)
+The data has be mainly sourced from NSE-India Website & Rediff Money using Web Scrapping with the help of Python Package (Beautiful Soup) and the Charts are made with NPM package (Chart.js)
 
 ## **View of the Web Application**
 >#### **Home Page of the Web Application**
